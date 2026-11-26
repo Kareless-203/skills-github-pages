@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
-body: This is interesting...
+title: Welcome to my blog
 ---
+**This is interesting...**
